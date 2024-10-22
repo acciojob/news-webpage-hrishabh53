@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.container {
+	dispay:flex;
+	flex-direction: row;
+}
+header {
+	background-color: #011e29;
+	color: white;
+	text-align: center;
+	padding:20px;
+}
+body{
+	background-color:#f5f5f5;
+}
+.latest-news-section {
+	background-color: white;
+	border-radius: 20px;
+	padding:20px;
+	text-align: center;
+}
+.Main {
+	background-color:white;
+	border-radius: 15px;
+	text-align: center;
+}
+.pictorial-news-section{
+	background-color:white;
+	border-radius: 15px;
+	text-align: center;
+}
